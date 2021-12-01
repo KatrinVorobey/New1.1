@@ -5,7 +5,8 @@
 На тестирование затрачено: 15 минут
 
 В результате тестирования выявлены следующие дефекты:
-* Main -1794967296
+* Main -1794967296 
+Ссылка на баг-репорт: https://github.com/KatrinVorobey/New1.1/issues/4#issue-1068288862
 
 
 В процессе тестирования выполнялись следующие шаги:
@@ -37,3 +38,5 @@ Process finished with exit code 0
 
    - Система: Windows 10 Pro. Версия 21H1. Сборка ОС 19043.1288
    - "Редактор кода"Intellij IDEA Community Edition 2021.2.3"
+   - Версия платформы Java - openjdk version "11.0.12" 2021-07-20, OpenJDK Runtime Environment JBR-11.0.12.7-1504.40-jcef (build 11.0.12+7-b1504.40)
+
